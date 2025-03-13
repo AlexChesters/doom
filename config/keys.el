@@ -5,3 +5,8 @@
  "M-s-<up>" #'windmove-up
  "M-s-<down>" #'windmove-down
  )
+
+(map!
+ :map override
+ "C-c v s" #'magit-status
+ )
