@@ -77,3 +77,6 @@
 
 ;; MARK - custom stuff
 (add-to-list 'default-frame-alist '(fullscreen . maximized))
+
+;; custom files
+(load! "config/keys")

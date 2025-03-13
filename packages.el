@@ -47,3 +47,8 @@
 ;; (unpin! pinned-package another-pinned-package)
 ;; ...Or *all* packages (NOT RECOMMENDED; will likely break things)
 ;; (unpin! t)
+
+;; MARK - custom
+;;
+;; MARK - MELPA
+(package! treemacs)
