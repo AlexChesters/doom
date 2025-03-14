@@ -80,3 +80,4 @@
 
 ;; custom files
 (load! "config/keys")
+(load! "config/appearance")
